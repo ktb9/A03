@@ -7,6 +7,22 @@ Feature:  added workflow for using github
 
 Fix:  changed readme.md for definition of terms
 
+Step 1: Download webstorm https://www.jetbrains.com/webstorm/
+
+Step 2: Create a GitHub account https://www.github.com
+
+Step 3: Create a new Repository using GitHub. 
+
+Step 4: Open the project in WebStorm that you want to put under Git.
+
+Step 5: Choose **Enable Version Control Integration** from the **VCS Operations Popup**
+
+Step 6: Choose **Git** as the version control system and click **OK**
+
+Step 7: After VCS intergration is enabled, WebStorm will ask you whether you want to share project settings files via VCS. You can choose **Always Add** to synchronize project settings with other repository users who work with Webstorm. 
+
+Congrations you have connected your github account and your webstorm together!
+
 **Branch**: The branch into which changes are combined when you merge a pull request. When you create a pull request, you can change the base branch from the repository's default branch to another branch if required.
 
 **Clone**: A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy.
@@ -31,3 +47,4 @@ Fix:  changed readme.md for definition of terms
 
 **Repository**: A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
 
+WORK CITED: https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html#put-existing-project-under-Git
