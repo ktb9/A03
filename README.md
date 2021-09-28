@@ -23,6 +23,8 @@ Step 7: After VCS intergration is enabled, WebStorm will ask you whether you wan
 
 Congrations you have connected your github account and your webstorm together!
 
+**Definitions**
+
 **Branch**: The branch into which changes are combined when you merge a pull request. When you create a pull request, you can change the base branch from the repository's default branch to another branch if required.
 
 **Clone**: A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy.
